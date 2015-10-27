@@ -5,9 +5,9 @@ set -e
 
 ASCII=`cat ascii/homer.txt`
 
-echo 'tesing...'
-echo 'tesing...'
-echo 'tesing again...'
+echo 'testing...'
+echo 'testing...'
+echo 'testing again...'
 
 echo -e "\033[33mCongratulations!\033[0m You've successfully run your first build on Buildkite! 👍
 
